@@ -1,0 +1,6 @@
+# Site settings
+baseURL = "https://code4myself.github.io/"
+theme = ["blank"]
+
+languageCode = "en-us"
+title = "Code For Myself Project"
