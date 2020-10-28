@@ -16,8 +16,8 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v2
         with:
-          submodules: true  
-          fetch-depth: 0    
+          submodules: true
+          fetch-depth: 0
 
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2
@@ -28,11 +28,10 @@ jobs:
         run: rm -rf public
 
       - name: Build
-        run: hugo --theme=blank
+        run: npm i && npm run build && hugo --theme=blank
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./public
-          
