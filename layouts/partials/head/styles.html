@@ -1,4 +1,4 @@
-{{- $styleSass := resources.Get "assets/sass/main.scss" -}}
+{{- $styleSass := resources.Get "sass/main.scss" -}}
 {{- $styleCSS := $styleSass | resources.ToCSS (dict "targetPath" "css/style.css" "enableSourceMap" true) -}}
 {{- $styleMinified := $styleCSS | resources.Minify -}}
 {{- $styleFingerpinted := $styleMinified | resources.Fingerprint -}}
