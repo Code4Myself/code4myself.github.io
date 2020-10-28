@@ -4,3 +4,9 @@ theme = ["blank"]
 
 languageCode = "en-us"
 title = "Code For Myself Project"
+
+[markup]
+  defaultMarkdownHandler = "goldmark"
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
