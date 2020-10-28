@@ -27,8 +27,11 @@ jobs:
       - name: Clean public directory
         run: rm -rf public
 
+      - name: Install
+        run: npm i && npm run build
+
       - name: Build
-        run: npm i && npm run build && hugo --theme=blank
+        run: hugo --theme=blank
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
