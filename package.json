@@ -1,0 +1,21 @@
+{
+  "name": "code4myself.github.io",
+  "version": "1.0.0",
+  "description": "Website of Code for Myself",
+  "main": "index.js",
+  "scripts": {
+    "build": "make build-js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Georepublic",
+  "license": "ISC",
+  "repository": "git@github.com:Code4Myself/code4myself.github.io.git",
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.15.1",
+    "bootstrap": "^4.5.2",
+    "bootstrap-icons": "^1.0.0-alpha5",
+    "feather-icons": "^4.28.0",
+    "jquery": "^3.5.1",
+    "popper.js": "^1.16.1"
+  }
+}
