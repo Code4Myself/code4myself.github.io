@@ -5,11 +5,11 @@ title: Ichnion - Visualize your digitial footprint
 <div id="about" class="text-dark">
   <div class="container pt-5">
     <div class="row pb-3 d-flex flex-wrap align-items-center">
-      <div class="col-sm m-4">
+      <div class="col-md m-4">
         <h2 class="py-3">Main problem explained</h2>
         <p>Through your daily activities and communications, a vast digital footprint, or activity record data, is being generated. The digital footprint of each individual is not only a visual depiction of memories but can be used for many things.</p>
       </div>
-      <div class="col-sm bg-light m-4 text-center" style="padding-top:150px;padding-bottom:150px;">
+      <div class="col-md bg-light m-4 text-center" style="padding-top:150px;padding-bottom:150px;">
         <svg class="feather feather-large text-info align-middle"><use xlink:href="/elements/feather-sprite.svg#image"/></svg>
       </div>
     </div>
@@ -17,12 +17,9 @@ title: Ichnion - Visualize your digitial footprint
 </div>
 
 <div class="text-dark">
-  <div class="container py-5">
+  <div class="container pb-5">
     <div class="row pb-3 d-flex flex-wrap align-items-center">
-      <div class="col-sm bg-light m-4 text-center" style="padding-top:150px;padding-bottom:150px;">
-        <svg class="feather feather-large text-info align-middle"><use xlink:href="/elements/feather-sprite.svg#image"/></svg>
-      </div>
-      <div class="col-sm m-4">
+      <div class="col-md m-4">
         <h2 class="py-3">How it works</h2>
         <ul class="list-unstyled">
           <li>
@@ -40,7 +37,11 @@ legal regulations.</p>
           </li>
         </ul>
       </div>
+      <div class="col-md order-md-first bg-light m-4 text-center" style="padding-top:150px;padding-bottom:150px;">
+        <svg class="feather feather-large text-info align-middle"><use xlink:href="/elements/feather-sprite.svg#image"/></svg>
+      </div>
     </div>
+  </div>
 </div>
 
 <div id="vision" class="bg-light text-dark">
@@ -134,7 +135,7 @@ legal regulations.</p>
 <div class="text-dark">
   <div class="container py-5">
     <div class="row">
-      <div class="col">
+      <div class="col text-center">
         <h2 class="py-3">Supporters</h2>
       </div>
     </div>
