@@ -1,2 +1,22 @@
 /* Custom page CSS
 -------------------------------------------------- */
+.feather {
+  width: 16px;
+  height: 16px;
+  stroke: currentColor;
+  stroke-width: 2;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  fill: none;
+}
+
+.feather-large {
+  width: 96px;
+  height: 96px;
+  stroke-width: 1;
+}
+
+.feather-center, .svg-center {
+  display: inline-flex;
+  align-self: center;
+}

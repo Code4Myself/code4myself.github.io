@@ -1,0 +1,17 @@
+# List of supporters
+supporters:
+  - name: "Tokyo University"
+    href: "https://shiba.iis.u-tokyo.ac.jp/"
+    logo: "supporter/iis-utokyo.png"
+
+  - name: "Keio University"
+    href: "#"
+    logo: "#"
+
+  - name: "Georepublic"
+    href: "https://georepublic.info"
+    logo: "supporter/georepublic.svg"
+
+  - name: "Code for Japan"
+    href: "https://www.code4japan.org/"
+    logo: "supporter/code4japan.svg"
