@@ -139,5 +139,27 @@ legal regulations.</p>
         <h2 class="py-3">Supporters</h2>
       </div>
     </div>
+    <div class="row py-4 align-items-center text-center">
+      <div class="col-sm-6 col-lg-3 p-4">
+        <a href="https://www.code4japan.org/">
+          <img src="/supporter/code4japan.png" class="img-fluid" alt="Code for Japan" title="Code for Japan">
+        </a>
+      </div>
+      <div class="col-sm-6 col-lg-3 p-4">
+        <a href="https://shiba.iis.u-tokyo.ac.jp/">
+          <img src="/supporter/iis-utokyo.png" class="img-fluid" alt="Tokyo University" title="Tokyo University">
+        </a>
+      </div>
+      <div class="col-sm-6 col-lg-3 p-4">
+        <a href="https://georepublic.info">
+          <img src="/supporter/georepublic.png" class="img-fluid" alt="Georepublic" title="Georepublic">
+        </a>
+      </div>
+      <div class="col-sm-6 col-lg-3 p-4 ">
+        <a href="#">
+          <svg class="feather feather-large text-info"><use xlink:href="/elements/feather-sprite.svg#smile"/></svg>
+        </a>
+      </div>
+    </div>
   </div>
 </div>
