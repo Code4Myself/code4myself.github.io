@@ -6,7 +6,7 @@ title: Ichnion - Visualize your digitial footprint
   <div class="container pt-5">
     <div class="row">
       <div class="col">
-        <h2 class="py-3 text-center">Become your own data archeologist</h2>
+        <h2 class="py-3 text-center">Sovereignty over our Digital Heritage</h2>
       </div>
     </div>
     <div class="row pb-3 d-flex flex-wrap align-items-center">
