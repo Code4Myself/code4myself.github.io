@@ -42,11 +42,11 @@ title: Ichnion - Visualize your digitial footprint
           </li>
           <li>
             <h4>Assemble</h4>
-            <p>To uncover the true value of our personal archives the digital data needs to be processed and aggregated. </p>
+            <p>To uncover the true value of your personal archives the digital data needs to be processed and aggregated. </p>
           </li>
           <li>
             <h4>Exhibit</h4>
-            <p>Visualization empowers us to inspect our digital footprints and to understand what data is collected about us.</p>
+            <p>Visualization empowers you to inspect your digital footprints and to understand what data is collected about us.</p>
           </li>
         </ul>
       </div>
