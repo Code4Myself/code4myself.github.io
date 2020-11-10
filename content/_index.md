@@ -46,7 +46,7 @@ title: Ichnion - Visualize your digitial footprint
           </li>
           <li>
             <h4>Exhibit</h4>
-            <p>Visualization empowers you to inspect your digital footprints and to understand what data is collected about us.</p>
+            <p>Visualization empowers you to inspect your digital footprints including potential values and possible risks. And it enables you to understand what data is collected about us.</p>
           </li>
         </ul>
       </div>
