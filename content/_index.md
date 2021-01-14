@@ -15,8 +15,8 @@ title: Ichnion - Visualize your digitial footprint
         <p>However, the digital footprint of each individual is not only a visual depiction of memories but can be used for many things. It can be put to good use, such as health and asset management, career and personal development. In addition, if shared and accumulated across society based on the individual's free will, it will be useful in preventing the spread of pandemics, improving mobility services, road safety, and supporting responses to disasters for example.</p>
         <p>Personal data exports from web services are not readable for ordinary people. This project wants to change this and help individuals obtain the digital footprints from various service providers as comprehensively as possible based on data portability, to organize, integrate, visualize and put our data into an accessible format.</p>
       </div>
-      <div class="col-md bg-light m-4 text-center" style="padding-top:150px;padding-bottom:150px;">
-        <svg class="feather feather-large text-info align-middle"><use xlink:href="/elements/feather-sprite.svg#image"/></svg>
+      <div class="col-md m-4">
+        <img src="/undraw_privacy_protection_nlwy.svg" class="img-fluid p-4" alt="Ichnion">
       </div>
     </div>
   </div>
@@ -50,8 +50,8 @@ title: Ichnion - Visualize your digitial footprint
           </li>
         </ul>
       </div>
-      <div class="col-md order-md-first bg-light m-4 text-center" style="padding-top:150px;padding-bottom:150px;">
-        <svg class="feather feather-large text-info align-middle"><use xlink:href="/elements/feather-sprite.svg#image"/></svg>
+      <div class="col-md order-md-first m-4">
+        <img src="/undraw_current_location_rypt.svg" class="img-fluid p-4" alt="Ichnion">
       </div>
     </div>
   </div>
