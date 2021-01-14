@@ -121,10 +121,10 @@ title: Ichnion - Visualize your digitial footprint
     <div class="row">
       <div class="col text-center">
         <h2 class="py-3">Get in touch</h2>
-        <p>Want to get in touch? We'd love to hear from you. Here's how you can reach us...</p>
+        <p>Want to get in touch? We'd love to hear from you. You can talk to us in our <a href="https://discord.gg/HPFF83fTR4">Discord channel</a>.</p>
       </div>
     </div>
-    <div class="row">
+    <!--div class="row">
       <div class="col-md m-4">
         <form>
           <div class="form-group">
@@ -143,7 +143,7 @@ title: Ichnion - Visualize your digitial footprint
         <p class="text-info p-5">Other way to contact like slack</p>
       </div>
       </div>
-    </div>
+    </div-->
   </div>
 </div>
 
